@@ -1,0 +1,32 @@
+
+# Delphi generated files
+*.dcu
+*.dcp
+*.dproj
+*.dproj.local
+*.identcache
+*.local
+*.skincfg
+*.res
+*.rsm
+*.exe
+*.dll
+*.ocx
+*.bpl
+*.drc
+*.map
+*.dSYM/
+
+# Backup files
+*.~pas
+*.~dfm
+*.bak
+
+# Build directories
+/Win32/
+/Win64/
+/__history/
+/__recovery/
+
+# Database folder (local use only)
+/DB/
